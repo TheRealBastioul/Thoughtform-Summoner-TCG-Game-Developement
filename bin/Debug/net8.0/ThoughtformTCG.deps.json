@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThoughtformTCG/1.0.0": {
+        "runtime": {
+          "ThoughtformTCG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThoughtformTCG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

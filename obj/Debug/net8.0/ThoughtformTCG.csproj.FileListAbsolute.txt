@@ -1,0 +1,14 @@
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\bin\Debug\net8.0\ThoughtformTCG.exe
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\bin\Debug\net8.0\ThoughtformTCG.deps.json
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\bin\Debug\net8.0\ThoughtformTCG.runtimeconfig.json
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\bin\Debug\net8.0\ThoughtformTCG.dll
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\bin\Debug\net8.0\ThoughtformTCG.pdb
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.AssemblyInfoInputs.cache
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.AssemblyInfo.cs
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.csproj.CoreCompileInputs.cache
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.dll
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\refint\ThoughtformTCG.dll
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.pdb
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ThoughtformTCG.genruntimeconfig.cache
+C:\Users\bAST\Documents\THOUGHTFORM SUMMONER\ThoughtformTCG\ThoughtformTCG\obj\Debug\net8.0\ref\ThoughtformTCG.dll
